@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "title": "A Hithchiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "id": "REI5B4a"
+    },
+    {
+      "title": "It",
+      "author": "Stephen King",
+      "id": "6Y5RIr7"
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "id": "we6D8nU"
+    },
+    {
+      "title": "Another Title",
+      "author": "Another Author",
+      "id": "J5ymlwy"
+    },
+    {
+      "title": "Test Title",
+      "author": "Test Author",
+      "id": "E8lPWTw"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
